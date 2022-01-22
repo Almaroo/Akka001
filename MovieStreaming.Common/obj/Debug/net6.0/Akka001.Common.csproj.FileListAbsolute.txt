@@ -1,0 +1,12 @@
+C:\Users\mfxba\RiderProjects\Akka001\Akka001.Common\bin\Debug\net6.0\Akka001.Common.deps.json
+C:\Users\mfxba\RiderProjects\Akka001\Akka001.Common\bin\Debug\net6.0\Akka001.Common.dll
+C:\Users\mfxba\RiderProjects\Akka001\Akka001.Common\bin\Debug\net6.0\ref\Akka001.Common.dll
+C:\Users\mfxba\RiderProjects\Akka001\Akka001.Common\bin\Debug\net6.0\Akka001.Common.pdb
+C:\Users\mfxba\RiderProjects\Akka001\Akka001.Common\obj\Debug\net6.0\Akka001.Common.csproj.AssemblyReference.cache
+C:\Users\mfxba\RiderProjects\Akka001\Akka001.Common\obj\Debug\net6.0\Akka001.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mfxba\RiderProjects\Akka001\Akka001.Common\obj\Debug\net6.0\Akka001.Common.AssemblyInfoInputs.cache
+C:\Users\mfxba\RiderProjects\Akka001\Akka001.Common\obj\Debug\net6.0\Akka001.Common.AssemblyInfo.cs
+C:\Users\mfxba\RiderProjects\Akka001\Akka001.Common\obj\Debug\net6.0\Akka001.Common.csproj.CoreCompileInputs.cache
+C:\Users\mfxba\RiderProjects\Akka001\Akka001.Common\obj\Debug\net6.0\Akka001.Common.dll
+C:\Users\mfxba\RiderProjects\Akka001\Akka001.Common\obj\Debug\net6.0\ref\Akka001.Common.dll
+C:\Users\mfxba\RiderProjects\Akka001\Akka001.Common\obj\Debug\net6.0\Akka001.Common.pdb

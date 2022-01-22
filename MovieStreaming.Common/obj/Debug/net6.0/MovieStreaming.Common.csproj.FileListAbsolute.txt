@@ -1,0 +1,12 @@
+C:\Users\mfxba\RiderProjects\Akka001\MovieStreaming.Common\bin\Debug\net6.0\MovieStreaming.Common.deps.json
+C:\Users\mfxba\RiderProjects\Akka001\MovieStreaming.Common\bin\Debug\net6.0\MovieStreaming.Common.dll
+C:\Users\mfxba\RiderProjects\Akka001\MovieStreaming.Common\bin\Debug\net6.0\ref\MovieStreaming.Common.dll
+C:\Users\mfxba\RiderProjects\Akka001\MovieStreaming.Common\bin\Debug\net6.0\MovieStreaming.Common.pdb
+C:\Users\mfxba\RiderProjects\Akka001\MovieStreaming.Common\obj\Debug\net6.0\MovieStreaming.Common.csproj.AssemblyReference.cache
+C:\Users\mfxba\RiderProjects\Akka001\MovieStreaming.Common\obj\Debug\net6.0\MovieStreaming.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mfxba\RiderProjects\Akka001\MovieStreaming.Common\obj\Debug\net6.0\MovieStreaming.Common.AssemblyInfoInputs.cache
+C:\Users\mfxba\RiderProjects\Akka001\MovieStreaming.Common\obj\Debug\net6.0\MovieStreaming.Common.AssemblyInfo.cs
+C:\Users\mfxba\RiderProjects\Akka001\MovieStreaming.Common\obj\Debug\net6.0\MovieStreaming.Common.csproj.CoreCompileInputs.cache
+C:\Users\mfxba\RiderProjects\Akka001\MovieStreaming.Common\obj\Debug\net6.0\MovieStreaming.Common.dll
+C:\Users\mfxba\RiderProjects\Akka001\MovieStreaming.Common\obj\Debug\net6.0\ref\MovieStreaming.Common.dll
+C:\Users\mfxba\RiderProjects\Akka001\MovieStreaming.Common\obj\Debug\net6.0\MovieStreaming.Common.pdb
